@@ -4,6 +4,7 @@
 **varun-dhawan/varun-dhawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on Azure Database for Postgres.
 - 🌱 I’m currently learning art of technical product management and distributed databases.
@@ -14,4 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I’m passionate about cardio activities, especially indoor cycling and outdoor biking. However, I hate strength training.
 
--->
+
