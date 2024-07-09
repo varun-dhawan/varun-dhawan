@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I’m passionate about cardio activities, especially indoor cycling and outdoor biking. However, I hate strength training.
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabilramy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
